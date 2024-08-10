@@ -1,4 +1,4 @@
-import BentoGrid from "./components/bento-grid"
+import BentoGrid from "./components/bento"
 
 function App() {
 
